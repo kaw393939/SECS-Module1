@@ -1,5 +1,9 @@
 # Module Objective
 You will be able to setup and configure Visual Studio 2019 to write C# programs that use Docker, GIT, and GitHub
+# Video
+[Video: Unit Content - Part 1](https://www.youtube.com/watch?v=Xh2czK6oFlg&list=PLytMRtonvCRX-ejGF2N7iguF5U6XpaFJj&index=5)
+[Video: Unit Content - Part 2](https://www.youtube.com/watch?v=ONjn4_GFDpQ&list=PLytMRtonvCRX-ejGF2N7iguF5U6XpaFJj&index=6)
+
 # Readings
 * None
 
